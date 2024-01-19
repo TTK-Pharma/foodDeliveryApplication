@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'poppins';
+}
+.quicks {
+  margin-left: -16px;
+}
+.quick{
+  font-size: 30px;
+  color: #192F60;
+}
+.disc{
+  font-size: 18px;
+  color: #8C96AB;
+}
+.quicksearch {
+  z-index: -1;
+}

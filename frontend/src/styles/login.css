@@ -1,0 +1,36 @@
+.logo_google {
+
+  top: -18%;
+  width: 20%;
+  cursor: pointer;
+  position: relative;
+  left: 8%;
+  z-index: 1;
+  background: transparent;
+ 
+}
+.circless {
+  width: 15%;
+  height: 15%;
+}
+.googlee {
+  outline: none;
+  border: none;
+  border: 1px solid black;
+  padding-top: 4px;
+  padding-left: 27px;
+  padding-right: 27px;
+  padding-bottom: 3px;
+  position: relative;
+  left: 10%;
+  margin-top: 25px;
+  border-radius: 6px;
+}
+.namess {
+  margin-top: 5px;
+}
+.closess {
+  position: relative;
+  left: 112%;
+  font-size: 30px;
+}
